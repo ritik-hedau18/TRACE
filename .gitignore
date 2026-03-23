@@ -1,0 +1,12 @@
+# Environment secrets 
+.env
+.env.local
+.env.production
+
+# Build outputs
+**/target/
+**/*.jar
+
+# IDE files
+**/.idea/
+**/*.iml
