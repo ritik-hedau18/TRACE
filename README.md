@@ -79,8 +79,8 @@ The system utilizes PostgreSQL for transactional data consistency, MongoDB for h
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ritik-hedau18/TRACE-Transaction-Risk-and-Anomaly-Classification-Engine.git
-cd TRACE-Transaction-Risk-and-Anomaly-Classification-Engine
+git clone https://github.com/ritik-hedau18/TRACE.git
+cd TRACE
 ```
 
 ### 2. Start infrastructure
